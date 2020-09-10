@@ -1,0 +1,2 @@
+# wiki-edits
+wiki-edits教程是一个监控wikipedia编辑的flink监控程序，实时计算编辑者的编辑的byte数。它通过wikipedia connector来获取数据源，最终把数据sink到kafka中。
